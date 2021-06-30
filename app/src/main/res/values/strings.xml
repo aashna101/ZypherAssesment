@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZypherAssessment</string>
+    <string name="BASE_URL">https://backend-test-zypher.herokuapp.com/</string>
+</resources>
